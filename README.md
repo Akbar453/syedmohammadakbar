@@ -1,3 +1,6 @@
+Sure, here's the updated version with the additional skills:
+
+```html
 <h1>Hi, I'm Syed Mohammad Akbar! <br/><a href="https://github.com/syed-mohammad-akbar">Smart Contract Engineer</a>, <a href="https://www.linkedin.com/in/syed-mohammad-akbar/">Blockchain Enthusiast</a>, Hardhat & Truffle Specialist</h1>
 
 <h2>🔗 Blockchain Development Projects:</h2>
@@ -18,12 +21,23 @@
 <h2>ℹ️ I can help with:</h2>
 
 - Blockchain Technology
-- Smart Contract Development and Security
 - Solidity Programming
-- Data Structures & Algorithms
+- Python
 - JavaScript
-- Hardhat & Truffle
-- Bridges and Security Tunnels
+- Metaverse Development
+- Unreal Engine
+- Blender
+- Figma
+- C++
+- Cryptography
+- IPFS (InterPlanetary File System)
+- Zero-Knowledge Proofs
+- Oracles
+- DeFi (Decentralized Finance)
+- NFTs (Non-Fungible Tokens)
+- Hyperledger Fabric
+- Mocha Testing Framework
+- Chai Assertion Library
 
 <h2> 📞 Contact me:</h2>
 
@@ -56,3 +70,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+
+
+
