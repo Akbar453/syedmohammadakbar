@@ -1,6 +1,3 @@
-Sure, here's the updated version with the additional skills:
-
-```html
 <h1>Hi, I'm Syed Mohammad Akbar! <br/><a href="https://github.com/syed-mohammad-akbar">Smart Contract Engineer</a>, <a href="https://www.linkedin.com/in/syed-mohammad-akbar/">Blockchain Enthusiast</a>, Hardhat & Truffle Specialist</h1>
 
 <h2>🔗 Blockchain Development Projects:</h2>
@@ -70,7 +67,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
+
 
 
 
